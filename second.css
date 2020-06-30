@@ -1,0 +1,45 @@
+
+body {
+    margin: 0;
+    text-align: left;
+    font-family: Merriweatherr, serif;
+    background-color: #e8e4e1;
+}
+h1{
+    text-align: center;
+    color: #1b6ca8;
+    font-family: Montez, cursive;
+    font-size: 300%;
+
+}
+.topinfo{
+    color: #04070a;
+    margin-left: 50px;
+    font-family: Merriweatherr, serif;
+}
+h3{
+    font-family: Montez, cursive;
+    color: #1b6ca8;
+    font-size: 300%;
+}
+.finalinfo{
+    text-align: center;
+    font-family: Merriweatherr, serif;
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    
+}  
+.putcenter{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+    
+
+

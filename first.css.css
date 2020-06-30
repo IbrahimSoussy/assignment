@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Merriweatherr, serif;
+    background-color: #e8e4e1;
+}
+
+h1{
+    color: #1b6ca8;
+    width: 100%;
+    margin: auto;
+    margin-top:50px;
+    font-family: Montez, cursive;
+    font-size: 350%;
+}
+h2{
+    color:  #1b6ca8;
+    width: 100%;
+    margin: auto;
+    font-size: 300%;
+    font-family: Montez, cursive;
+}
+h3{
+    color: royalblue;
+    text-align: left;
+    font-family: Montserrat,sans-serif;
+    margin-left: 20px;
+
+
+}
+.profile{
+    font-family: Motez, cursive;
+    color: royalblue;
+}
+.experience{
+    text-align: left;
+    margin-left: 45px;
+}
+.Education{
+    text-align: left;
+    margin-left: 45px;
+}
+.activities{
+    text-align: left;
+    margin-left: 20px;
+}
+.topinfo{
+    color: #1b6ca8;
+}
